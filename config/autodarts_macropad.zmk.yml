@@ -1,9 +1,0 @@
-file_format: "1"
-id: autodarts_macropad
-name: Autodarts Macropad
-type: shield
-boards:
-  - nrf52840dongle
-  - nrf52840dongle/nrf52840
-  - nrf52840dongle//zmk
-  - nrf52840dongle/nrf52840/zmk
