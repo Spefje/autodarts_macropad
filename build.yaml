@@ -1,0 +1,3 @@
+include:
+  - board: nrf52840dongle//zmk
+    shield: macro12
